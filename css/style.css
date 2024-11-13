@@ -1,3 +1,9 @@
-h1{
-    color: red;
+body{
+    margin: 0;
+}
+
+/*HEADER*/
+header {
+    background-color: rgba(29, 188, 228, 0.733);/*esercizio base*/
+
 }
