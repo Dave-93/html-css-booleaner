@@ -4,8 +4,9 @@ body{
 
 /*HEADER*/
 header {
-    background-color: rgba(29, 188, 228, 0.733);/*esercizio base*/
-
+    background-color: rgba(29, 188, 228, 0.733); /*esercizio base*/
+    background-image:url(../img/pattern.png); /*esercizio bonus*/
+    background-size: 22%; /*esercizio bonus*/
 }
 
 #logo{
@@ -16,7 +17,8 @@ header {
 /*MAIN*/
 
 main{
-    margin: 0 15px;/*esercizio base*/
+    /*margin: 0 15px; esercizio base*/
+    margin: 0 150px; /*esercizio bonus*/
     }
 
 /*PROMEMORIA
