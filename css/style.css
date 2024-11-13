@@ -7,3 +7,8 @@ header {
     background-color: rgba(29, 188, 228, 0.733);/*esercizio base*/
 
 }
+
+#logo{
+    width: 200px;
+    padding: 20px 10px;
+}
