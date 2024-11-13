@@ -46,3 +46,26 @@ main{
 ul{
     padding-left: 20px;
 }
+
+/*TABLE*/
+table{
+    margin-bottom: 50px;
+}
+
+thead{
+    background-color: rgba(53, 129, 243, 0.61);
+    color: white;
+    text-align: left;
+}
+
+.column1-2{
+    width: 20%;
+}
+
+#column3{
+    width: 40%;
+}
+
+.color-row{
+    background-color: rgba(54, 92, 175, 0.295);
+}
