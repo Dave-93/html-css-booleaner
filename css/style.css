@@ -69,3 +69,15 @@ thead{
 .color-row{
     background-color: rgba(54, 92, 175, 0.295);
 }
+
+/*FOOTER*/
+footer {
+    background-color: rgba(31, 54, 102, 0.801);
+}
+
+footer p{
+    padding: 20px 0px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
