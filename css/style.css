@@ -12,3 +12,22 @@ header {
     width: 200px;
     padding: 20px 10px;
 }
+
+/*MAIN*/
+
+main{
+    margin: 0 15px;/*esercizio base*/
+    }
+
+/*PROMEMORIA
+    con il simbolo ">" prende solo il discendente diretto (figlio)
+    solo con lo spazio prende il in considerazione tutti i discendenti (non solo figlio)
+*/
+
+#main-title span{
+    color: rgb(7, 176, 255);
+}
+
+#main-title  p{
+    color: rgb(175, 175, 175);
+}
