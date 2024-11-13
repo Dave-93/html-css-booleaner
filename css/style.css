@@ -31,3 +31,9 @@ main{
 #main-title  p{
     color: rgb(175, 175, 175);
 }
+
+#description-photo p{
+    font-style: italic;
+    font-size: 13px;
+    margin: 0;
+}
